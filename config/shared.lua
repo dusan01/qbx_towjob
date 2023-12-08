@@ -1,18 +1,18 @@
 return {
     locations = {
-        ["main"] = {
-            label = "Towing HQ",
-            coords = vec4(471.39, -1311.03, 29.21, 114.5),
+        ['main'] = {
+            label = 'Towing HQ',
+            coords = vec3(471.9, -1310.8, 29.0),
         },
-        ["vehicle"] = {
-            label = "Flatbed",
-            coords = vec4(489.65, -1331.82, 29.33, 306.5),
+        ['vehicle'] = {
+            label = 'Flatbed',
+            coords = vec3(489.65, -1331.82, 29.33),
         },
-        ["dropoff"] = {
-            label = "Vehicle Drop Off Location",
+        ['dropoff'] = {
+            label = 'Vehicle Drop Off Location',
             coords = vec3(491.00, -1314.69, 29.25)
         },
-        ["towspots"] = {
+        ['towspots'] = {
             [1] = { model = "sultanrs", coords = vec3(-2480.8720703125, -211.96409606934, 17.397672653198) },
             [2] = { model = "zion", coords = vec3(-2723.392578125, 13.207388877869, 15.12806892395) },
             [3] = { model = "oracle", coords = vec3(-3169.6235351563, 976.18127441406, 15.038360595703) },

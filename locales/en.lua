@@ -31,6 +31,10 @@ local Translations = {
         tow = 'Place A Car On The Back Of Your Flatbed',
         toggle_npc = 'Toggle Npc Job',
         skick = 'Attempted exploit abuse',
+        pickup_paycheck = '[E] - Pick up paycheck',
+        pickup_paycheck_target = 'Pick up paycheck',
+        store_vehicle = '[E] - Store the Vehicle',
+        vehicles = '[E] - Vehicles',
     },
     label = {
         payslip = 'Payslip',
